@@ -1,1 +1,3 @@
-A text file
+A text file.
+line 2
+line3
